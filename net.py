@@ -7,7 +7,7 @@ NUM_LAYERS = 4
 max_grad_norm = 2
 
 HIDDEN_SIZE_2 = 8
-NUM_LAYERS_2 = 2
+NUM_LAYERS_2 = 1
 
 
 
